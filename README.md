@@ -5,7 +5,8 @@ Node app.
 
 Place in directory `~/learning`.
 
-To start:
-
-    cd learning
-    ./learn elements
+To start in UNIX:
+```bash
+cd learning
+./learn elements
+```
